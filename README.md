@@ -5,8 +5,8 @@
 
 
 |   | Topic| Run |  View | 
-| - | Read, Analyze and Visualization fMRI data | --- | --- | 
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/haxby_dataset.ipynb)  | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/haxby_dataset.ipynb) |
+| - |--- | --- | --- | 
+| Tutorial 1 | Read, Analyze and Visualization fMRI data |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/haxby_dataset.ipynb)  | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/haxby_dataset.ipynb) |
 
 ## Tutorial 2 - ISC & ISFC Correlation Maps
 Inter Subject Correlation(ISC) & Inter Subject Functional Correlaation(ISFC)
