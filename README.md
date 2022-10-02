@@ -13,4 +13,6 @@
 | Tutorial 7 | Linear and Quadratic Discriminant Analysis |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/LDA_QDA.ipynb)  | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/LDA_QDA.ipynb) |
 | Tutorial 8 | Support Vector Machine  || --- | ---  | --- |
 | Tutorial 9 | Principal Components Analysis | --- | ---  | --- |
+| Tutorial 10 | Support Vector Machine  || --- | ---  | --- |
+| Tutorial 11 | Principal Components Analysis | --- | ---  | --- |
 | Final Project  | --- | ---  | --- |
