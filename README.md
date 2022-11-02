@@ -16,3 +16,6 @@
 | Tutorial 10 |  ---  | ---| --- | ---  | --- |
 | Tutorial 11 |  --- | --- | ---  | --- |
 | Final Project  | --- | ---  | --- |
+
+
+MATLAB vs Python: Why and How to Make the Switch: https://realpython.com/matlab-vs-python/
