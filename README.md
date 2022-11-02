@@ -14,7 +14,6 @@
 | Tutorial 8 | Support Vector Machine  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/svm.ipynb)  | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/svm.ipynb) |
 | Tutorial 9 | Principal Components Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/pca.ipynb)  | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/eyalhizmi/Machine-learning-methods-for-fMRI-signal-analysis/blob/main/tutorials/pca.ipynb) |
 | Tutorial 10 |  ---  | ---| --- | ---  | --- |
-| Tutorial 11 |  --- | --- | ---  | --- |
 | Final Project  | --- | ---  | --- |
 
 
